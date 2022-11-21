@@ -8,7 +8,6 @@ I'm Edmond, a third year Computer Science major at UCLA.
 - 📫 I am currently searching for an internship for Summer 2023! If my skillset and background are a good match, reach out at edmond.yixiu.wen@gmail.com. 
 - 😄 I play badminton in my free time. I am currently reading [The Song of Achilles](https://www.goodreads.com/book/show/13623848-the-song-of-achilles). 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmondywen)](https://github.com/anuraghazra/github-readme-stats)
 [![Edmond's github stats](https://github-readme-stats.vercel.app/api?username=edmondywen&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **edmondywen/edmondywen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
